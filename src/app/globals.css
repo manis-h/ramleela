@@ -27,4 +27,14 @@ body {
 }
 body{
   height: 100vh;
+  background-size: cover;
+}
+.bg-ram{
+  /* filter: blur(px);
+  -webkit-filter: blur(px); */
+  background-image:url('./Rama.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 }
